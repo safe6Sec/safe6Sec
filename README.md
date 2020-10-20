@@ -2,7 +2,7 @@
 
 
 
-博客： [http://www.safe6.cn/](http://www.safe6.cn/)    
+blog： [http://www.safe6.cn/](http://www.safe6.cn/)    
 QQ：MTg1MDU5NzE1Mg==   
 公众号：safe6安全的成长日记
 
