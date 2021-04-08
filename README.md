@@ -7,7 +7,10 @@ QQ：MTg1MDU5NzE1Mg==
 公众号：safe6安全的成长日记
 
 ## About Me
-入圈三年了还是个菜鸡，目前还在做码农,正准备转行安全，专职红队。  
+练习时长三年半的脚本小子，熟练使用各种工具。
+做过一段时间的java开发，2021年刚转到安全，目前在甲方。
+想做红队的菜鸡
+
 
 ## Languages
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
