@@ -9,7 +9,7 @@ QQ：MTg1MDU5NzE1Mg==
 ## About Me
 练习时长三年半的脚本小子，熟练使用各种工具。   
 2021年刚转到安全的菜鸡java程序员，目前在甲方。   
-java python golang web渗透 安卓逆向 安全研究
+java python golang web渗透 安卓逆向 安全研究 代码审计 红蓝对抗
 
 
 ## Languages
