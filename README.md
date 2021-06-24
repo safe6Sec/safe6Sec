@@ -7,10 +7,10 @@ QQ：MTg1MDU5NzE1Mg==
 公众号：safe6安全的成长日记
 
 ## About Me
-练习时长三年半的脚本小子，熟练使用各种工具。   
-2021年刚转到安全的菜鸡java程序员，目前在甲方。   
-java python golang  
-web渗透 安卓逆向 渗透测试 代码审计  
+一个刚入行的菜狗而已。  
+
+Java|Python|Golang    
+web安全|安卓逆向|渗透测试|代码审计    
 
 
 ## Languages
