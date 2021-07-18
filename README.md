@@ -7,8 +7,6 @@ QQ：MTg1MDU5NzE1Mg==
 公众号：safe6安全的成长日记
 
 ## About Me
-一个刚入行的菜狗而已。  
-
 Java|Python|Golang    
 web安全|安卓逆向|渗透测试|代码审计    
 
