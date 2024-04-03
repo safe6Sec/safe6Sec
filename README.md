@@ -5,7 +5,7 @@
 blog： [http://www.safe6.cn/](http://www.safe6.cn/)    
 QQ：MTg1MDU5NzE1Mg==   
 公众号：safe6安全的成长日记
-<img src="http://qiniu.safe6.cn/qr2.png" width="50%" height="50%">
+<img src="http://qiniu.safe6.cn/qr2.png" width="50%" height="50%" style="float: left;">
 ## About Me
 Java|Python|Golang    
 web安全|java安全|安卓逆向|渗透测试|代码审计|武器化    
